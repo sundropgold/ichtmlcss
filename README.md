@@ -1,3 +1,5 @@
 # ichtmlcss
+## HTML and CSS Practice
 
-More HTML and CSS practice!
+### Summary
+A short practice to using HTML and CSS.
